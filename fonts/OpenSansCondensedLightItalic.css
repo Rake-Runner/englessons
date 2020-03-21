@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'OpenSansCondensedLightItalic';
+    src: url('fonts/OpenSansCondensedLightItalic.eot');
+    src: url('fonts/OpenSansCondensedLightItalic.eot') format('embedded-opentype'),
+         url('fonts/OpenSansCondensedLightItalic.woff2') format('woff2'),
+         url('fonts/OpenSansCondensedLightItalic.woff') format('woff'),
+         url('fonts/OpenSansCondensedLightItalic.ttf') format('truetype'),
+         url('fonts/OpenSansCondensedLightItalic.svg#OpenSansCondensedLightItalic') format('svg');
+}

@@ -1,0 +1,67 @@
+@font-face {
+    font-family: 'OpenSansCondensedBold', sans-serif;
+    src: url('../fonts/OpenSansCondensedBold.eot');
+    src: url('../fonts/OpenSansCondensedBold.eot') format('embedded-opentype'),
+         url('../fonts/OpenSansCondensedBold.woff2') format('woff2'),
+         url('../fonts/OpenSansCondensedBold.woff') format('woff'),
+         url('../fonts/OpenSansCondensedBold.ttf') format('truetype'),
+         url('../fonts/OpenSansCondensedBold.svg#OpenSansCondensedBold') format('svg');
+}
+@font-face {
+    font-family: 'OpenSansCondensedLight', sans-serif;
+    src: url('../fonts/OpenSansCondensedLight.eot');
+    src: url('../fonts/OpenSansCondensedLight.eot') format('embedded-opentype'),
+         url('../fonts/OpenSansCondensedLight.woff2') format('woff2'),
+         url('../fonts/OpenSansCondensedLight.woff') format('woff'),
+         url('../fonts/OpenSansCondensedLight.ttf') format('truetype'),
+         url('../fonts/OpenSansCondensedLight.svg#OpenSansCondensedLight') format('svg');
+}
+@font-face {
+    font-family: 'OpenSansCondensedLightItalic', sans-serif;
+    src: url('../fonts/OpenSansCondensedLightItalic.eot');
+    src: url('../fonts/OpenSansCondensedLightItalic.eot') format('embedded-opentype'),
+         url('../fonts/OpenSansCondensedLightItalic.woff2') format('woff2'),
+         url('../fonts/OpenSansCondensedLightItalic.woff') format('woff'),
+         url('../fonts/OpenSansCondensedLightItalic.ttf') format('truetype'),
+         url('../fonts/OpenSansCondensedLightItalic.svg#OpenSansCondensedLightItalic') format('svg');
+}
+@font-face {
+    font-family: 'JuraLight';
+    src: url('../fonts/JuraLight.eot');
+    src: url('../fonts/JuraLight.eot') format('embedded-opentype'),
+         url('../fonts/JuraLight.woff2') format('woff2'),
+         url('../fonts/JuraLight.woff') format('woff'),
+         url('../fonts/JuraLight.ttf') format('truetype'),
+         url('../fonts/JuraLight.svg#JuraLight') format('svg');
+}
+@font-face {
+    font-family: 'JuraRegular';
+    src: url('../fonts/JuraRegular.eot');
+    src: url('../fonts/JuraRegular.eot') format('embedded-opentype'),
+         url('../fonts/JuraRegular.woff2') format('woff2'),
+         url('../fonts/JuraRegular.woff') format('woff'),
+         url('../fonts/JuraRegular.ttf') format('truetype'),
+         url('../fonts/JuraRegular.svg#JuraRegular') format('svg');
+}
+@font-face {
+    font-family: 'MontserratAlternatesLight';
+    src: url('../fonts/MontserratAlternatesLight.eot');
+    src: url('../fonts/MontserratAlternatesLight.eot') format('embedded-opentype'),
+         url('../fonts/MontserratAlternatesLight.woff2') format('woff2'),
+         url('../fonts/MontserratAlternatesLight.woff') format('woff'),
+         url('../fonts/MontserratAlternatesLight.ttf') format('truetype'),
+         url('../fonts/MontserratAlternatesLight.svg#MontserratAlternatesLight') format('svg');
+}
+@font-face {
+    font-family: 'icomoon';
+    src:  url('../fonts/icomoon.eot?tc7q2y');
+    src:  url('../fonts/icomoon.eot?tc7q2y#iefix') format('embedded-opentype'),
+      url('../fonts/icomoon.ttf?tc7q2y') format('truetype'),
+      url('../fonts/icomoon.woff?tc7q2y') format('woff'),
+      url('../fonts/icomoon.svg?tc7q2y#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+
+

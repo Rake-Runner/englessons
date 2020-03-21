@@ -1,0 +1,182 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+/* .char li{
+    margin: 10px 30px 10px 30px;
+} */
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+    #container-header{
+        max-width: 100%;
+    }
+    .dop_usl_list{
+        flex-wrap: wrap;
+    }
+    /* .col{
+        display: none;
+    }
+    .col-flex{
+        display: block;
+    } */
+}
+    
+    @media only screen and (max-width : 980px) {
+        /* #esper-fin{
+            display: block;
+        } */
+    }
+/* Small Devices, Tablets */
+@media only screen and (max-width : 847px) {
+	
+}
+    @media only screen and (max-width : 806px) {
+        /* #esper-tur{
+            display: block;
+        } */
+    }
+    @media only screen and (max-width : 790px) {
+        .menu{
+            display: none;
+        }
+        .menu-link-rus{
+            margin-left: 0;
+        }
+        .burger{
+            display:block;
+        }
+        .burgerp{
+            margin: 0;
+        }
+        .navig{
+            margin-top: 0px;
+            margin-bottom: 0px;
+            padding-bottom: 8px;
+        }
+        #myBtn{
+            margin-top: 6px;
+        }
+        .home{
+            margin-top: 7px;
+        }
+        .icon-menu2:before {
+            content: "\e900";
+            color: white;
+            font-size: 19px;
+            text-decoration: none;
+        }
+        .btn{
+            text-decoration: none !important;}
+
+
+@media only screen and (max-width : 768px) {
+   
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 640px) {
+	.esper{
+        display: block;
+    }
+    .rus{
+        height: 200%;
+        padding-bottom: 50px;
+    }
+    .space{
+        display: none;
+    }
+    .mapandcont{
+        display: block !important;
+    }
+    .map{
+        width: 100% !important;
+    }
+    .on-map-block{
+        width: 100% !important;
+    }
+    .themap{
+        width: 100%;
+    }
+    .thecont1{
+        width: 100%; 
+        padding-bottom: 25px;
+        display: flex; 
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center; 
+        font-family: 'MontserratAlternatesLight', sans-serif; 
+        background-color: black; 
+        color: white;
+    }
+    .thecont{
+        display: none;
+    }
+}
+    @media only screen and (max-width : 600px) {
+        /* .esper{
+            display: block;
+        } */
+    }
+    @media only screen and (max-width : 550px) {
+        /* #serv{
+            display: block;
+        } */
+    }
+@media only screen and (max-width : 490px) {
+	/* .esper{
+        display: block;
+    }
+    .char-2-sport{
+        margin-top: 16px;
+    }
+    .logo_text-sport1{
+        font-size: 15px !important;
+    }
+    .logo_text-sport2{
+        font-size: 25px !important; 
+    }
+    .logo_invite-sport{
+        font-size: 18px;
+    } */
+}
+    @media only screen and (max-width : 439px) {
+        .nav{
+            justify-content: center;
+            flex-wrap: wrap !important;
+        }
+
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 640px) {
+	
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+	
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+/* .gall-6{
+    display: none !important;
+} */
+}
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
